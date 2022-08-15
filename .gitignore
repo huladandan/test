@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# add by myself
+.idea/
+dataloader/
+dataset/
+image/
+logs/
+logs_maxpool/
+logs_relu/
+logs_seq/
+logs_train/
+p10/
+*.pth
+
+
